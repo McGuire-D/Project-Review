@@ -1,21 +1,19 @@
-body{background-color: #FFE5CC;}
-ul{
-    list-style: none;
-    margin-left: 1%
-   }
-span{
-      font-weight: bold;
-     }
-.italic{
-         font-style: italic;
-         margin-left: 1%;
-        }
- .text{
-    margin-left: 1%
-   }
+body{background-color: #d8ecf0;}
 h1{
   text-align: center;
-  text-shadow: 1px 1px black;
   font-family: Libre Baskerville , serif;
-  color: #006666
+  color: black;
   }
+.header{
+  background-color: #006666;
+  position:fixed;
+  top:0;
+  width:100%;
+  z-index:100;
+}
+ .side{
+   width: 30%;
+   height: 100%;
+   position:left-fixed;
+   background-color: white;
+ }
