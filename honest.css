@@ -1,0 +1,21 @@
+body{background-color: #FFE5CC;}
+ul{
+    list-style: none;
+    margin-left: 1%
+   }
+span{
+      font-weight: bold;
+     }
+.italic{
+         font-style: italic;
+         margin-left: 1%;
+        }
+ .text{
+    margin-left: 1%
+   }
+h1{
+  text-align: center;
+  text-shadow: 1px 1px black;
+  font-family: Libre Baskerville , serif;
+  color: #006666
+  }
